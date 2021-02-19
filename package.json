@@ -1,0 +1,26 @@
+{
+  "name": "wskz",
+  "version": "1.0.0",
+  "description": "Zadanie ma na celu sprawdzenie poziomu kandydata z zakresu HTMLa, CSSa i JS.",
+  "main": "app/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wskz/zadanie-front-end-mid.git"
+  },
+  "author": "grzegorz.topolewski@wskz.pl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wskz/zadanie-front-end-mid/issues"
+  },
+  "homepage": "https://github.com/wskz/zadanie-front-end-mid#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "node-sass": "^5.0.0",
+    "typescript": "^4.1.5"
+  }
+}
