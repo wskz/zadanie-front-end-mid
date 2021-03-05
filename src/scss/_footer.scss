@@ -1,0 +1,15 @@
+.footer{
+    width: 95%;
+    height: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: radial-gradient($baseColor1,$baseColor2);
+    -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+    box-shadow: 5px 5px 15px 5px #000000;
+    .footer__title{
+        font-family: $mainFont;
+        color: $mainFontsColor;
+        font-size: 3vw;
+    }
+}
