@@ -6,11 +6,29 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>WSKZ - Form Validation</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/all.min.css">
 </head>
-
 <body>
-
+  <div class="form-wrapper">
+    <form class="form" id="form">
+        <div class="form__names">
+            <label>imię *<input type="text" id="firstName"><div class="first-name-error-message" id="first-name-error-message"></div></label>
+            <label>nazwisko *<input type="text" id="lastName"><div class="last-name-error-message" id="last-name-error-message"></div></label>
+        </div>
+        <div class="form__phone-email">
+            <label>numer telefonu*<input type="text" id="phoneNumber"><div class="phone-error-message" id="phone-error-message"></div></label>
+            <label>adres e-mail *<input type="text" id="email"><div class="email-error-message" id="email-error-message"></div></label>
+        </div>
+        <div class="form__password">
+          <label>hasło*<input type="text" id="password"><div class="password-error-message" id="password-error-message"></div></label>
+      </div>
+        <div class="submit-btn">
+            <button class="submit" id="submit" type="submit">Potwierdź</button>
+        </div>
+    </div>
+</div>
   <script src="js/scripts.js"></script>
 </body>
 
