@@ -1,4 +1,9 @@
 const mainSection = document.querySelector('.main-section');
+const listViewButton = document.querySelector('.menu__list-button');
+const gridViewButton = document.querySelector('.menu__grid-list-button');
+const productsList = document.querySelector('.products-list');
+
+
 
 const getProducts = () =>{
     const url = 'products.json';
@@ -48,3 +53,13 @@ const showProducts=(products) =>{
 }
 
 window.addEventListener('load', getProducts);
+
+const viewList=()=>{
+    productsList.className='list-view';
+}
+listViewButton.addEventListener('click', viewList);
+
+const viewGrid=()=>{
+    productsList.className='products-list';
+}
+gridViewButton.addEventListener('click', viewGrid);
