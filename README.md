@@ -10,7 +10,7 @@ Link do repozytorium: https://github.com/wskz/zadanie-front-end-mid/
 
 Repozytorium posiada uprawnienia odczytu. W celu ukończenia zadania wymagany jest fork do prywatnego repozytorium.
 
-Po skończeniu zadania proszę nadać uprawnienia odczytu dla `grzegorz.topolewski@wskz.pl`, `anna.antaswskz@gmail.com`, `pawel.usinowicz@wskz.pl`
+Po skończeniu zadania proszę nadać uprawnienia odczytu dla `grzegorz.topolewski@wskz.pl`, `anna.antas@wskz.pl`, `pawel.usinowicz@wskz.pl`
 
 ## Jak rozpocząć
 
@@ -103,9 +103,9 @@ Celem ułatwienia pracy nad zadaniem zalecana jest instalacja dodatku do VSC (Vi
 
 ## Przesłanie zadania do oceny
 
-Zadanie musi zostać umieszczone jako projekt na prywatnym repozytorium Kandydata, z opcją odczytu dla: `grzegorz.topolewski@wskz.pl`, `anna.antaswskz@gmail.com`, `pawel.usinowicz@wskz.pl`
+Zadanie musi zostać umieszczone jako projekt na prywatnym repozytorium Kandydata, z opcją odczytu dla: `grzegorz.topolewski@wskz.pl`, `anna.antas@wskz.pl`, `pawel.usinowicz@wskz.pl`
 
-Poinformuj proszę  email `anna.antaswskz@gmail.com` w momencie zakończenia zadania
+Poinformuj proszę  email `anna.antas@wskz.pl` w momencie zakończenia zadania
 
 **Powodzenia**
 Zespół WSKZ
