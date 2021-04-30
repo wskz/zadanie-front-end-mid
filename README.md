@@ -105,7 +105,7 @@ Celem ułatwienia pracy nad zadaniem zalecana jest instalacja dodatku do VSC (Vi
 
 Zadanie musi zostać umieszczone jako projekt na prywatnym repozytorium Kandydata, z opcją odczytu dla: `pawel.krzeminski@wskz.pl`, `marcin.maciorowski@wskz.pl`, `pawel.usinowicz@wskz.pl`
 
-Poinformuj proszę  email `anna.antas@wskz.pl` w momencie zakończenia zadania
+Poinformuj proszę  email `marcin.maciorowski@wskz.pl` w momencie zakończenia zadania
 
 **Powodzenia**
 Zespół WSKZ
